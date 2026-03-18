@@ -5,6 +5,9 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 ## 1. What was broken when you started?
 
 - What did the game look like the first time you ran it?
+
+    There is a settings menu bar on the left side of the app that can be toggled to show/hide. The main screen has the title of the app, and the directions for the chosen difficulty level. There is a input field to enter guesses and buttons to submit guess, restart game and a toggle to show hint.
+
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
 
